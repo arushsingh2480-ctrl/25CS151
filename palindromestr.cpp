@@ -2,8 +2,14 @@
 #include <string>
 using namespace std;
 int main() {
-    bool ispalindrome(string s)
-    int s=0,end s.length()-1;
-    while(st<end){
-        if(!isalphanum palindrome)
-    }
+    string s;
+    cout <<"enter string= ";
+    getline(cin,s);
+    string rev=s;
+    reverse(rev.begin(),rev.end());
+    if(s==rev)
+    cout<<"palindrome";
+    else
+    cout<<"not palindrome";
+    return 0;
+}
