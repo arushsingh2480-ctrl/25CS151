@@ -5,5 +5,6 @@ int main() {
     string s1="hello";
     string s2="world";
     string s3;
-    str3.assign(s1);
+    s3.assign(s1);
+}
     

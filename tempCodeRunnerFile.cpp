@@ -2,3 +2,6 @@
 using namespace std;
 
 int main() {
+    string s;
+    cout<<"enter string: ";
+    getline(cin,s);
